@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrutunjay Pradhan</h1>
 <h3 align="center">🚀 Java Backend Developer | MERN Enthusiast | Problem Solver</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrutunjaypradhan&theme=radical&margin-w=10&margin-h=10&row=1&column=7" alt="mrutunjaypradhan trophies"/>
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/mrutunjay-pradhan" target="blank">
